@@ -1,13 +1,9 @@
 {
-  "billingaddress": [
+  "address": [
     {
-    "street": "333 W Wacker Dr #300, Chicago, IL, 60606",
-  }
-  ],
-  "shippingaddress": [
-    {
-    "street": "2095 West 250 South, Apt D, Pleasant Grove, UT, 84062",
-  }
+    "billingaddress": "333 W Wacker Dr #300, Chicago, IL, 60606",
+    "shippingaddress": "2095 West 250 South, Apt D, Pleasant Grove, UT, 84062"
+    }
   ],
   "profile": { "name": "Capgemini America Inc." }
 }
